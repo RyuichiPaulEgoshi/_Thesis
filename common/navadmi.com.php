@@ -1,12 +1,12 @@
 <!--Left Navigation Bars-->
 <div class="nav-container">
     <ul>
-        <li onmousemove="ShowHomNav()"><a href="#"><i class="material-icons">home</i></a></li>
-        <li onmousemove="ShowAccNav()"><a href="#"><i class="material-icons">person</i></a></li>
-        <li onmousemove="ShowSchNav()"><a href="#"><i class="material-icons">school</i></a></li>
-        <li onmousemove="ShowResNav()"><a href="#"><i class="material-icons">compare_arrows</i></a></li>
-        <li onmousemove="ShowSetNav()"><a href="#"><i class="material-icons">settings</i></a></li>
-        <li id="down-item"><a href="#"><i class="material-icons">help</i></a></li>
+        <li onmousemove="ShowHomNav()"><a href="index1_home.php"><i class="material-icons">home</i></a></li>
+        <li onmousemove="ShowAccNav()"><a href="index2_account.php"><i class="material-icons">person</i></a></li>
+        <li onmousemove="ShowSchNav()"><a href="index3_class.php"><i class="material-icons">school</i></a></li>
+        <li onmousemove="ShowResNav()"><a href="index5_transaction.php"><i class="material-icons">compare_arrows</i></a></li>
+        <li onmousemove="ShowSetNav()"><a href="index6_settng.php"><i class="material-icons">settings</i></a></li>
+        <li id="down-item"><a href="index7_help.php"><i class="material-icons">help</i></a></li>
     </ul>
 </div>
 <!--Sub Navigation Bars-->
