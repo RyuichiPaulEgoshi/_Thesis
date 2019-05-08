@@ -10,7 +10,7 @@
     <title>CPUHS CMS Log in page</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="styles/login.css" />
-    <script src="main.js"></script>
+    <script src="js/script.js"></script>
 </head>
 <body>
     <div class="main-wrapper">
